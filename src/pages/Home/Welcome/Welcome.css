@@ -1,0 +1,35 @@
+.container__block {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+.btn-danger {
+    color:white;
+    font-weight: bold;
+    padding: 0.7rem 1rem;
+    border-radius: 9px;
+    background-color: red;
+}
+
+.btn-danger:hover {
+    background-color: darkred;
+}
+
+.btn-success {
+    color:white;
+    font-weight: bold;
+    padding: 0.7rem 1rem;
+    border-radius: 9px;
+    background-color: green;
+}
+
+.btn-success:hover {
+    background-color: darkgreen;
+}
